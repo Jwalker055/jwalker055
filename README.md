@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### 👋 Hi, I’m Jasmine Walker, Also known as @jwalker055
+### 👀 I’m interested in developing role playing games and vr applications.
+### 🌱 I’m currently working on being a fullstack developer.
+
 <!--
 **Jwalker055/jwalker055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
