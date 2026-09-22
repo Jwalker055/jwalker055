@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### 👋 Hi, I’m Jasmine Walker, Also known as @jwalker055
-### 👀 I’m interested in developing vr application and websites.
-### 🌱 I’m currently working on being a front-end developer
+### 👀 I’m interested in developing vr application.
+
 
 <!--
 **Jwalker055/jwalker055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
